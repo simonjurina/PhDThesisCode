@@ -1,3 +1,5 @@
+ The functions should be run in the Computer Algebra System Magma.
+ 
  The file IsHyperbolicAuxiliaryCode contains sub-routines of IsHyperbolic that are used by
  IsConjugate and VerifyHypVertex. Copy them before using the code of IsConjugate or VerifyHypVertex.
 
