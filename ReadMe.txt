@@ -6,5 +6,7 @@
  The desriptions of sub-routines and tests are included in the corresponding files. One thing to note is 
  that IsConjugate returns the cyclically \mathcal{P}-reduced conjugates of the input words and the correspoding 
  conjugating word in lists so that it is possible to distinguish them.
+ 
+ Host:  perm.mcs.st-and.ac.uk
 
 
