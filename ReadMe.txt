@@ -1,4 +1,4 @@
- File DecProbsGeneralizedSmallCancTheory_ThesisCode: 
+ File DecProbsGeneralizedSmallCancTheory_ThesisCode.zip: 
  
  The functions should be run in the Computer Algebra System Magma.
  
@@ -9,7 +9,7 @@
  that IsConjugate returns the cyclically \mathcal{P}-reduced conjugates of the input words and the correspoding 
  conjugating word in lists so that it is possible to distinguish them.
  
- File MarshallAlgorithm: 
+ File MarshallAlgorithm.zip: 
  
 Contains an implementation of Marshall's algorithm together with tests that verify correctness of experiments presented in Chapter 7 of the thesis. The functions should be run in GAP. 
  
