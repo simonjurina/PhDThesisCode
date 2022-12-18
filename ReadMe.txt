@@ -11,7 +11,7 @@
  
  File MarshallAlgorithm.zip: 
  
-Contains an implementation of Marshall's algorithm together with tests that verify correctness of experiments presented in Chapter 7 of the thesis. The functions should be run in GAP. 
+Contains an implementation of Marshall's algorithm together with tests that verify correctness of experiments presented in Chapter 7 of the thesis (in the file rayseg.g). The functions should be run in GAP. 
  
  Host:  perm.mcs.st-and.ac.uk
 
