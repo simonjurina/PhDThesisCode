@@ -9,7 +9,7 @@
  that IsConjugate returns the cyclically \mathcal{P}-reduced conjugates of the input words and the correspoding 
  conjugating word in lists so that it is possible to distinguish them.
  
- File MarshallAlgorithm.zip: 
+ File MarshallConjSolver.zip: 
  
 Contains an implementation of Marshall's conjugacy problem solver together with tests that verify correctness of experiments presented in Chapter 7 of the thesis (in the file rayseg.g). The functions should be run in GAP. 
  
